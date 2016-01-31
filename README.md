@@ -1,5 +1,7 @@
 ## Learn Git
 
+[![Join the chat at https://gitter.im/yashu-seth/learn-git](https://badges.gitter.im/yashu-seth/learn-git.svg)](https://gitter.im/yashu-seth/learn-git?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Inspired from [git-sandbox](https://github.com/AGV-IIT-KGP/git-sandbox)
 
 This is a place to practice git.
